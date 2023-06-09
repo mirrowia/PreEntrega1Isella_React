@@ -5,9 +5,7 @@ import "./ItemCount.css";
 function ItemCount({ stock, initial, onAdd }) {
   const [order, setOrder] = useState(0);
 
-  useEffect(() => {
-    document.getElementById("itemQty").value = order;
-  }, [order]);
+  useEffect(() => {}, [order]);
 
   return (
     <div className="item-count-container">
@@ -20,7 +18,7 @@ function ItemCount({ stock, initial, onAdd }) {
             }
           }}
         />
-        <input id="itemQty" type="text" defaultValue={initial} />
+        <input id="itemQty" type="text" value={order} />
         <i
           className="bi bi-plus"
           onClick={() => {
