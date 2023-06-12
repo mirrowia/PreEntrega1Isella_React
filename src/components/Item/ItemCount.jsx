@@ -7,8 +7,12 @@ function ItemCount({ stock, initial, onAdd }) {
 
   useEffect(() => {}, [order]);
 
+  const handleChange = (e) => {
+    setOrder(e.target.value);
+  };
+
   return (
-    <div className="item-count-container">
+    <div className="item-count-container" onClick={(e) => e.preventDefault()}>
       <div className="item-input-div">
         <i
           className="bi bi-dash"
@@ -18,7 +22,7 @@ function ItemCount({ stock, initial, onAdd }) {
             }
           }}
         />
-        <input id="itemQty" type="text" value={order} />
+        <input id="itemQty" type="text" value={order} onChange={handleChange} />
         <i
           className="bi bi-plus"
           onClick={() => {

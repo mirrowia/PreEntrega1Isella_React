@@ -1,14 +1,14 @@
-import Template from "../../Template"
+import Template from "../../Template";
 
 function Cart() {
+  return (
+    <Template>
+      <div
+        id="CartContainer"
+        className="container-fluid bg-warning-subtle"
+      ></div>
+    </Template>
+  );
+}
 
-
-
-    return (
-        <Template>
-            <h1>CART</h1>
-        </Template>
-    );
-  }
-  
-  export {Cart};
+export { Cart };

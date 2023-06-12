@@ -1,14 +1,15 @@
 import Search from "./Search";
 import CartWidget from "./CartWidget";
 import "./NavBar.css";
+import { Link, NavLink } from "react-router-dom";
 
 function NavBar() {
   return (
     <nav id="NavBar" className="navbar navbar-expand-lg bg-body-tertiary">
       <div className="container-fluid">
-        <a className="navbar-brand" href="#">
-          MirrowIA
-        </a>
+        <div id="title">
+          <NavLink to="/">MirrowIA</NavLink>
+        </div>
         <button
           className="navbar-toggler"
           type="button"
@@ -23,9 +24,9 @@ function NavBar() {
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="container-fluid navbar-nav d-flex justify-content-between">
             <div className="d-flex">
-              <a className="nav-link active" aria-current="page" href="#">
+              <NavLink to="/" state="">
                 Inicio
-              </a>
+              </NavLink>
               <div className="dropdown">
                 <button
                   className="nav-link dropdown-toggle"
@@ -35,43 +36,41 @@ function NavBar() {
                 >
                   Categorias
                 </button>
-                <ul className="dropdown-menu">
+                <ul className="dropdown-menu nav-list">
                   <li>
-                    <button className="dropdown-item my-2" type="button">
-                     Categoria 1
-                    </button>
+                    <NavLink to="/category/aventuras" state="AVENTURAS">
+                      <button className="dropdown-item my-2" type="button">
+                        AVENTURAS
+                      </button>
+                    </NavLink>
                   </li>
                   <li>
-                    <button className="dropdown-item my-2" type="button">
-                    Categoria 2
-                    </button>
+                    <NavLink to="/category/deportes" state="DEPORTES">
+                      <button className="dropdown-item my-2" type="button">
+                        DEPORTES
+                      </button>
+                    </NavLink>
                   </li>
                   <li>
-                    <button className="dropdown-item my-2" type="button">
-                    Categoria 3
-                    </button>
-                  </li>
-                  <li>
-                    <button className="dropdown-item my-2" type="button">
-                    Categoria 4
-                    </button>
-                  </li>
-                  <li>
-                    <button className="dropdown-item my-2" type="button">
-                    Categoria 5
-                    </button>
+                    <NavLink
+                      to="/category/comics-norteamericanos"
+                      state="COMICS NORTEAMERICANOS"
+                    >
+                      <button className="dropdown-item my-2" type="button">
+                        COMICS NORTEAMERICANOS
+                      </button>
+                    </NavLink>
                   </li>
                 </ul>
               </div>
-              <a className="nav-link" href="#">
-                Publicar
-              </a>
               <Search />
             </div>
-            <div className="d-flex">
-              <CartWidget />
+            <div className="d-flex nav-cart">
+              <Link to={"/cart"}>
+                <CartWidget />
+              </Link>
               <div>
-                <a className="navbar-brand ms-3" href="#">
+                <a className="navbar-brand ms-3" href="">
                   Usuario
                 </a>
               </div>
