@@ -6,6 +6,7 @@ function Search() {
       <div className="input-group">
         <input
           type="text"
+          id="search-box"
           className="form-control"
           placeholder="Buscar"
           aria-label="Buscar"

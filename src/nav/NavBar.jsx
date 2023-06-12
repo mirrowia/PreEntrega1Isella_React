@@ -4,6 +4,14 @@ import "./NavBar.css";
 import { Link, NavLink } from "react-router-dom";
 
 function NavBar() {
+  const categories = [
+    ["ACCION", "ACCION"],
+    ["AVENTURAS", "AVENTURAS"],
+    ["CIENCIA FICCION", "CIENCIA-FICCION"],
+    ["COMICS NORTEAMERICANOS", "COMICS-NORTEAMERICANOS"],
+    ["DEPORTES", "DEPORTES"],
+    ["SUSPENSO", "SUSPENSO"],
+  ];
   return (
     <nav id="NavBar" className="navbar navbar-expand-lg bg-body-tertiary">
       <div className="container-fluid">
@@ -37,30 +45,20 @@ function NavBar() {
                   Categorias
                 </button>
                 <ul className="dropdown-menu nav-list">
-                  <li>
-                    <NavLink to="/category/aventuras" state="AVENTURAS">
-                      <button className="dropdown-item my-2" type="button">
-                        AVENTURAS
-                      </button>
-                    </NavLink>
-                  </li>
-                  <li>
-                    <NavLink to="/category/deportes" state="DEPORTES">
-                      <button className="dropdown-item my-2" type="button">
-                        DEPORTES
-                      </button>
-                    </NavLink>
-                  </li>
-                  <li>
-                    <NavLink
-                      to="/category/comics-norteamericanos"
-                      state="COMICS NORTEAMERICANOS"
-                    >
-                      <button className="dropdown-item my-2" type="button">
-                        COMICS NORTEAMERICANOS
-                      </button>
-                    </NavLink>
-                  </li>
+                  {categories.map((category) => {
+                    return (
+                      <li key={category}>
+                        <NavLink
+                          to={"/category/" + category[1]}
+                          state={category[0]}
+                        >
+                          <button className="dropdown-item my-2" type="button">
+                            {category[0]}
+                          </button>
+                        </NavLink>
+                      </li>
+                    );
+                  })}
                 </ul>
               </div>
               <Search />

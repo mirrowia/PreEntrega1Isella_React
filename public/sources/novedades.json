@@ -508,5 +508,436 @@
     "price": "4000",
     "stock": "3",
     "category": "DEPORTES"
+  },
+    {
+    "id": "101",
+    "title": "GANTZ",
+    "description": "Tras morir atropellados por un subterráneo, Kurono y Kato aparecen de golpe en una rara habitación junto a otra gente. Todo es parte de un juego. Algo llamado Gantz los equipa con armas y rastreadores para ejecutar misiones de aniquilación de extraterrestres que viven de incógnito en Tokyo. Si no zafan de eso, van a morir posta... Gantz es una de las obras seinen más impactantes de los últimos años. Su mezcla de acción, violencia y trama adulta lo llevó a la cima del éxito en todo país donde fue publicado. La adaptación animada, si bien cuenta con sexo y violencia, apenas adapta las primeras historias (e inventa el final), perdiéndose de múltiples historias mucho más desarrolladas como las que cuenta esta versión (que actualmente sigue saliendo en el magazine para adultos Young Jump, de Shueisha)",
+    "volume": "1",
+    "cover": "https://www.ivrea.com.ar/gantz/gantz01.jpg",
+    "price": "4000",
+    "stock": "0",
+    "category": "ACCION"
+  },
+  {
+  "id": "102",
+  "title": "GANTZ",
+  "description": "Tras morir atropellados por un subterráneo, Kurono y Kato aparecen de golpe en una rara habitación junto a otra gente. Todo es parte de un juego. Algo llamado Gantz los equipa con armas y rastreadores para ejecutar misiones de aniquilación de extraterrestres que viven de incógnito en Tokyo. Si no zafan de eso, van a morir posta... Gantz es una de las obras seinen más impactantes de los últimos años. Su mezcla de acción, violencia y trama adulta lo llevó a la cima del éxito en todo país donde fue publicado. La adaptación animada, si bien cuenta con sexo y violencia, apenas adapta las primeras historias (e inventa el final), perdiéndose de múltiples historias mucho más desarrolladas como las que cuenta esta versión (que actualmente sigue saliendo en el magazine para adultos Young Jump, de Shueisha)",
+  "volume": "2",
+  "cover": "https://www.ivrea.com.ar/gantz/gantz02.jpg",
+  "price": "4000",
+  "stock": "10",
+  "category": "ACCION"
+  },
+  {
+  "id": "103",
+  "title": "ALICE IN BORDERLAND",
+  "description": "Alice Ryouhei está a punto de terminar la secundaria, pero todavía no tiene idea de lo que quiere hacer en el futuro. Durante una noche de joda con sus amigos Karuba y Chouta, ve un show de fuegos artificiales en el cielo y, cansado de su vida actual, Ryouhei pide un deseo: vivir en un mundo diferente. Después de una cegadora explosión, su deseo es concedido: él y sus amigos son teletransportados a un mundo paralelo aparentemente igual que el nuestro, pero habitado únicamente por aquellos desafortunados que están obligados a participar en un macabro juego de supervivencia. Ryouhei, Karube y Chouta intentarán sobrevivir en este peligrosísimo nuevo mundo, mientras buscan cómo volver a sus vidas normales.",
+  "volume": "1",
+  "cover": "https://www.ivrea.com.ar/aliceinborderland/aliceinborderland01.jpg",
+  "price": "4000",
+  "stock": "6",
+  "category": "SUSPENSO"
+  },
+  {
+    "id": "104",
+    "title": "ALICE IN BORDERLAND",
+    "description": "Alice Ryouhei está a punto de terminar la secundaria, pero todavía no tiene idea de lo que quiere hacer en el futuro. Durante una noche de joda con sus amigos Karuba y Chouta, ve un show de fuegos artificiales en el cielo y, cansado de su vida actual, Ryouhei pide un deseo: vivir en un mundo diferente. Después de una cegadora explosión, su deseo es concedido: él y sus amigos son teletransportados a un mundo paralelo aparentemente igual que el nuestro, pero habitado únicamente por aquellos desafortunados que están obligados a participar en un macabro juego de supervivencia. Ryouhei, Karube y Chouta intentarán sobrevivir en este peligrosísimo nuevo mundo, mientras buscan cómo volver a sus vidas normales.",
+    "volume": "2",
+    "cover": "https://www.ivrea.com.ar/aliceinborderland/aliceinborderland02.jpg",
+    "price": "4000",
+    "stock": "0",
+    "category": "SUSPENSO"
+  },
+  {
+    "id": "105",
+    "title": "ALICE IN BORDERLAND",
+    "description": "Alice Ryouhei está a punto de terminar la secundaria, pero todavía no tiene idea de lo que quiere hacer en el futuro. Durante una noche de joda con sus amigos Karuba y Chouta, ve un show de fuegos artificiales en el cielo y, cansado de su vida actual, Ryouhei pide un deseo: vivir en un mundo diferente. Después de una cegadora explosión, su deseo es concedido: él y sus amigos son teletransportados a un mundo paralelo aparentemente igual que el nuestro, pero habitado únicamente por aquellos desafortunados que están obligados a participar en un macabro juego de supervivencia. Ryouhei, Karube y Chouta intentarán sobrevivir en este peligrosísimo nuevo mundo, mientras buscan cómo volver a sus vidas normales.",
+    "volume": "3",
+    "cover": "https://www.ivrea.com.ar/aliceinborderland/aliceinborderland03.jpg",
+    "price": "4000",
+    "stock": "2",
+    "category": "SUSPENSO"
+  },
+  {
+    "id": "106",
+    "title": "ALICE IN BORDERLAND",
+    "description": "Alice Ryouhei está a punto de terminar la secundaria, pero todavía no tiene idea de lo que quiere hacer en el futuro. Durante una noche de joda con sus amigos Karuba y Chouta, ve un show de fuegos artificiales en el cielo y, cansado de su vida actual, Ryouhei pide un deseo: vivir en un mundo diferente. Después de una cegadora explosión, su deseo es concedido: él y sus amigos son teletransportados a un mundo paralelo aparentemente igual que el nuestro, pero habitado únicamente por aquellos desafortunados que están obligados a participar en un macabro juego de supervivencia. Ryouhei, Karube y Chouta intentarán sobrevivir en este peligrosísimo nuevo mundo, mientras buscan cómo volver a sus vidas normales.",
+    "volume": "4",
+    "cover": "https://www.ivrea.com.ar/aliceinborderland/aliceinborderland04.jpg",
+    "price": "4000",
+    "stock": "1",
+    "category": "SUSPENSO"
+  },
+  {
+    "id": "107",
+    "title": "ALICE IN BORDERLAND",
+    "description": "Alice Ryouhei está a punto de terminar la secundaria, pero todavía no tiene idea de lo que quiere hacer en el futuro. Durante una noche de joda con sus amigos Karuba y Chouta, ve un show de fuegos artificiales en el cielo y, cansado de su vida actual, Ryouhei pide un deseo: vivir en un mundo diferente. Después de una cegadora explosión, su deseo es concedido: él y sus amigos son teletransportados a un mundo paralelo aparentemente igual que el nuestro, pero habitado únicamente por aquellos desafortunados que están obligados a participar en un macabro juego de supervivencia. Ryouhei, Karube y Chouta intentarán sobrevivir en este peligrosísimo nuevo mundo, mientras buscan cómo volver a sus vidas normales.",
+    "volume": "5",
+    "cover": "https://www.ivrea.com.ar/aliceinborderland/aliceinborderland05.jpg",
+    "price": "4000",
+    "stock": "3",
+    "category": "SUSPENSO"
+  },
+  {
+    "id": "108",
+    "title": "ALICE IN BORDERLAND",
+    "description": "Alice Ryouhei está a punto de terminar la secundaria, pero todavía no tiene idea de lo que quiere hacer en el futuro. Durante una noche de joda con sus amigos Karuba y Chouta, ve un show de fuegos artificiales en el cielo y, cansado de su vida actual, Ryouhei pide un deseo: vivir en un mundo diferente. Después de una cegadora explosión, su deseo es concedido: él y sus amigos son teletransportados a un mundo paralelo aparentemente igual que el nuestro, pero habitado únicamente por aquellos desafortunados que están obligados a participar en un macabro juego de supervivencia. Ryouhei, Karube y Chouta intentarán sobrevivir en este peligrosísimo nuevo mundo, mientras buscan cómo volver a sus vidas normales.",
+    "volume": "6",
+    "cover": "https://www.ivrea.com.ar/aliceinborderland/aliceinborderland06.jpg",
+    "price": "4000",
+    "stock": "4",
+    "category": "SUSPENSO"
+  },
+  {
+    "id": "109",
+    "title": "ALICE IN BORDERLAND",
+    "description": "Alice Ryouhei está a punto de terminar la secundaria, pero todavía no tiene idea de lo que quiere hacer en el futuro. Durante una noche de joda con sus amigos Karuba y Chouta, ve un show de fuegos artificiales en el cielo y, cansado de su vida actual, Ryouhei pide un deseo: vivir en un mundo diferente. Después de una cegadora explosión, su deseo es concedido: él y sus amigos son teletransportados a un mundo paralelo aparentemente igual que el nuestro, pero habitado únicamente por aquellos desafortunados que están obligados a participar en un macabro juego de supervivencia. Ryouhei, Karube y Chouta intentarán sobrevivir en este peligrosísimo nuevo mundo, mientras buscan cómo volver a sus vidas normales.",
+    "volume": "7",
+    "cover": "https://www.ivrea.com.ar/aliceinborderland/aliceinborderland07.jpg",
+    "price": "4000",
+    "stock": "5",
+    "category": "SUSPENSO"
+  },
+  {
+    "id": "110",
+    "title": "ALICE IN BORDERLAND",
+    "description": "Alice Ryouhei está a punto de terminar la secundaria, pero todavía no tiene idea de lo que quiere hacer en el futuro. Durante una noche de joda con sus amigos Karuba y Chouta, ve un show de fuegos artificiales en el cielo y, cansado de su vida actual, Ryouhei pide un deseo: vivir en un mundo diferente. Después de una cegadora explosión, su deseo es concedido: él y sus amigos son teletransportados a un mundo paralelo aparentemente igual que el nuestro, pero habitado únicamente por aquellos desafortunados que están obligados a participar en un macabro juego de supervivencia. Ryouhei, Karube y Chouta intentarán sobrevivir en este peligrosísimo nuevo mundo, mientras buscan cómo volver a sus vidas normales.",
+    "volume": "8",
+    "cover": "https://www.ivrea.com.ar/aliceinborderland/aliceinborderland08.jpg",
+    "price": "4000",
+    "stock": "12",
+    "category": "SUSPENSO"
+  },
+  {
+    "id": "111",
+    "title": "DOROHEDORO",
+    "description": "Las estrámboticas aventuras de Kaiman, Nikaido y demás atorrantes de “The Hole”, una ciudad tan deprimente y lúgubre como su nombre lo indica. Allí, un clan de hechiceros secuestra gente de las calles para usarla como conejillos de india en sus atroces experimentos con las artes oscuras. Una de sus víctimas, Kaiman, sufre un severo caso de amnesia… ¡y encima su cabeza ahora parece de lagarto! Ayudado por Nikaido, la joven propietaria del restaurante de gyoza Hungry Bug, y una extraña presencia dentro de su boca, Kaiman emprende la búsqueda del hechicero que le cagó la vida. Pero, cuando el líder de los hechiceros se entera de que un hombre-lagarto está matando a su gente, envía un equipo de “limpiadores” a The Hole, iniciando una guerra entre dos mundos.",
+    "volume": "1",
+    "cover": "https://www.ivrea.com.ar/dorohedoro/dorohedoro01.jpg",
+    "price": "4900",
+    "stock": "0",
+    "category": "CIENCIA FICCION"
+  },
+  {
+    "id": "112",
+    "title": "DOROHEDORO",
+    "description": "Las estrámboticas aventuras de Kaiman, Nikaido y demás atorrantes de “The Hole”, una ciudad tan deprimente y lúgubre como su nombre lo indica. Allí, un clan de hechiceros secuestra gente de las calles para usarla como conejillos de india en sus atroces experimentos con las artes oscuras. Una de sus víctimas, Kaiman, sufre un severo caso de amnesia… ¡y encima su cabeza ahora parece de lagarto! Ayudado por Nikaido, la joven propietaria del restaurante de gyoza Hungry Bug, y una extraña presencia dentro de su boca, Kaiman emprende la búsqueda del hechicero que le cagó la vida. Pero, cuando el líder de los hechiceros se entera de que un hombre-lagarto está matando a su gente, envía un equipo de “limpiadores” a The Hole, iniciando una guerra entre dos mundos.",
+    "volume": "2",
+    "cover": "https://www.ivrea.com.ar/dorohedoro/dorohedoro02.jpg",
+    "price": "4900",
+    "stock": "0",
+    "category": "CIENCIA FICCION"
+  },
+  {
+    "id": "113",
+    "title": "DOROHEDORO",
+    "description": "Las estrámboticas aventuras de Kaiman, Nikaido y demás atorrantes de “The Hole”, una ciudad tan deprimente y lúgubre como su nombre lo indica. Allí, un clan de hechiceros secuestra gente de las calles para usarla como conejillos de india en sus atroces experimentos con las artes oscuras. Una de sus víctimas, Kaiman, sufre un severo caso de amnesia… ¡y encima su cabeza ahora parece de lagarto! Ayudado por Nikaido, la joven propietaria del restaurante de gyoza Hungry Bug, y una extraña presencia dentro de su boca, Kaiman emprende la búsqueda del hechicero que le cagó la vida. Pero, cuando el líder de los hechiceros se entera de que un hombre-lagarto está matando a su gente, envía un equipo de “limpiadores” a The Hole, iniciando una guerra entre dos mundos.",
+    "volume": "3",
+    "cover": "https://www.ivrea.com.ar/dorohedoro/dorohedoro03.jpg",
+    "price": "4900",
+    "stock": "0",
+    "category": "CIENCIA FICCION"
+  },
+  {
+    "id": "114",
+    "title": "DOROHEDORO",
+    "description": "Las estrámboticas aventuras de Kaiman, Nikaido y demás atorrantes de “The Hole”, una ciudad tan deprimente y lúgubre como su nombre lo indica. Allí, un clan de hechiceros secuestra gente de las calles para usarla como conejillos de india en sus atroces experimentos con las artes oscuras. Una de sus víctimas, Kaiman, sufre un severo caso de amnesia… ¡y encima su cabeza ahora parece de lagarto! Ayudado por Nikaido, la joven propietaria del restaurante de gyoza Hungry Bug, y una extraña presencia dentro de su boca, Kaiman emprende la búsqueda del hechicero que le cagó la vida. Pero, cuando el líder de los hechiceros se entera de que un hombre-lagarto está matando a su gente, envía un equipo de “limpiadores” a The Hole, iniciando una guerra entre dos mundos.",
+    "volume": "4",
+    "cover": "https://www.ivrea.com.ar/dorohedoro/dorohedoro04.jpg",
+    "price": "4900",
+    "stock": "0",
+    "category": "CIENCIA FICCION"
+  },
+  {
+    "id": "115",
+    "title": "DOROHEDORO",
+    "description": "Las estrámboticas aventuras de Kaiman, Nikaido y demás atorrantes de “The Hole”, una ciudad tan deprimente y lúgubre como su nombre lo indica. Allí, un clan de hechiceros secuestra gente de las calles para usarla como conejillos de india en sus atroces experimentos con las artes oscuras. Una de sus víctimas, Kaiman, sufre un severo caso de amnesia… ¡y encima su cabeza ahora parece de lagarto! Ayudado por Nikaido, la joven propietaria del restaurante de gyoza Hungry Bug, y una extraña presencia dentro de su boca, Kaiman emprende la búsqueda del hechicero que le cagó la vida. Pero, cuando el líder de los hechiceros se entera de que un hombre-lagarto está matando a su gente, envía un equipo de “limpiadores” a The Hole, iniciando una guerra entre dos mundos.",
+    "volume": "5",
+    "cover": "https://www.ivrea.com.ar/dorohedoro/dorohedoro05.jpg",
+    "price": "4900",
+    "stock": "0",
+    "category": "CIENCIA FICCION"
+  },
+  {
+    "id": "116",
+    "title": "DOROHEDORO",
+    "description": "Las estrámboticas aventuras de Kaiman, Nikaido y demás atorrantes de “The Hole”, una ciudad tan deprimente y lúgubre como su nombre lo indica. Allí, un clan de hechiceros secuestra gente de las calles para usarla como conejillos de india en sus atroces experimentos con las artes oscuras. Una de sus víctimas, Kaiman, sufre un severo caso de amnesia… ¡y encima su cabeza ahora parece de lagarto! Ayudado por Nikaido, la joven propietaria del restaurante de gyoza Hungry Bug, y una extraña presencia dentro de su boca, Kaiman emprende la búsqueda del hechicero que le cagó la vida. Pero, cuando el líder de los hechiceros se entera de que un hombre-lagarto está matando a su gente, envía un equipo de “limpiadores” a The Hole, iniciando una guerra entre dos mundos.",
+    "volume": "6",
+    "cover": "https://www.ivrea.com.ar/dorohedoro/dorohedoro06.jpg",
+    "price": "4900",
+    "stock": "0",
+    "category": "CIENCIA FICCION"
+  },
+  {
+    "id": "117",
+    "title": "DOROHEDORO",
+    "description": "Las estrámboticas aventuras de Kaiman, Nikaido y demás atorrantes de “The Hole”, una ciudad tan deprimente y lúgubre como su nombre lo indica. Allí, un clan de hechiceros secuestra gente de las calles para usarla como conejillos de india en sus atroces experimentos con las artes oscuras. Una de sus víctimas, Kaiman, sufre un severo caso de amnesia… ¡y encima su cabeza ahora parece de lagarto! Ayudado por Nikaido, la joven propietaria del restaurante de gyoza Hungry Bug, y una extraña presencia dentro de su boca, Kaiman emprende la búsqueda del hechicero que le cagó la vida. Pero, cuando el líder de los hechiceros se entera de que un hombre-lagarto está matando a su gente, envía un equipo de “limpiadores” a The Hole, iniciando una guerra entre dos mundos.",
+    "volume": "7",
+    "cover": "https://www.ivrea.com.ar/dorohedoro/dorohedoro07.jpg",
+    "price": "4900",
+    "stock": "0",
+    "category": "CIENCIA FICCION"
+  },
+  {
+    "id": "118",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "1",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover01.jpg",
+    "price": "2200",
+    "stock": "0",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "119",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "2",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover02.jpg",
+    "price": "2200",
+    "stock": "1",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "120",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "3",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover03.jpg",
+    "price": "2200",
+    "stock": "0",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "121",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "4",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover04.jpg",
+    "price": "2200",
+    "stock": "3",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "122",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "5",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover05.jpg",
+    "price": "2200",
+    "stock": "3",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "123",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "6",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover06.jpg",
+    "price": "2200",
+    "stock": "5",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "124",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "7",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover07.jpg",
+    "price": "2200",
+    "stock": "3",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "125",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "8",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover08.jpg",
+    "price": "2200",
+    "stock": "8",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "126",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "9",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover09.jpg",
+    "price": "2200",
+    "stock": "3",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "127",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "10",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover10.jpg",
+    "price": "2200",
+    "stock": "4",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "128",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "11",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover11.jpg",
+    "price": "2200",
+    "stock": "0",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "129",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "12",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover12.jpg",
+    "price": "2200",
+    "stock": "0",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "130",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "13",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover13.jpg",
+    "price": "2200",
+    "stock": "0",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "131",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "14",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover14.jpg",
+    "price": "2200",
+    "stock": "0",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "132",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "15",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover15.jpg",
+    "price": "2200",
+    "stock": "6",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "133",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "16",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover16.jpg",
+    "price": "2200",
+    "stock": "5",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "134",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "17",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover17.jpg",
+    "price": "2200",
+    "stock": "6",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "135",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "18",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover18.jpg",
+    "price": "2200",
+    "stock": "7",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "136",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "19",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover19.jpg",
+    "price": "2200",
+    "stock": "5",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "137",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "20",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover20.jpg",
+    "price": "2200",
+    "stock": "5",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "138",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "21",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover21.jpg",
+    "price": "2200",
+    "stock": "7",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "139",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "22",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover22.jpg",
+    "price": "2200",
+    "stock": "8",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "140",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "23",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover23.jpg",
+    "price": "2200",
+    "stock": "8",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "141",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "24",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover24.jpg",
+    "price": "2200",
+    "stock": "8",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "142",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "25",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover25.jpg",
+    "price": "2200",
+    "stock": "10",
+    "category": "AVENTURAS"
+  },
+  {
+    "id": "143",
+    "title": "BLACK CLOVER",
+    "description": "Cuando cumplen 15 años, Asta y Yuno tienen la chance de convertirse en los denominados Caballeros Mágicos, al recibir sus respectivos grimorios, libros que canalizan la magia de su poseedor. Yuno recibe el grimorio del trébol de cuatro hojas (que canaliza la magia de viento), como el que tenía el primer rey mago del reino, mientras que Asta no liga ni un pin. Sin embargo, cuando un ladrón incapacita a Yuno para intentar vender su grimorio en el mercado negro, Asta convoca su propio grimorio, un extraño tomo deslucido que contiene un trébol de cinco hojas, ¡que esconde los secretos de la extraña Anti-Magia (que permite cancelar todos los efectos mágicos), para vencerlo! Como era de prever, Asta esconde mucha más fuerza de la que aparentaba y AHORA SÍ empieza la historia propiamente dicha. Ambos terminan en distintas órdenes de caballería (donde aparecen el 90% de los personajes secundarios y subtramas), mientras construyen una rivalidad amistosa para tratar de convertirse en Rey Mago; no sin antes alcanzar a ser los caballeros mágicos más fuertes del reino.",
+    "volume": "26",
+    "cover": "https://www.ivrea.com.ar/blackclover/blackclover26.jpg",
+    "price": "2200",
+    "stock": "10",
+    "category": "AVENTURAS"
   }
+        
 ]

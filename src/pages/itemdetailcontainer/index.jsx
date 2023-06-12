@@ -8,9 +8,7 @@ function ItemDetailContainer(props) {
   const location = useLocation();
   const manga = location.state;
 
-  useEffect(() => {
-    console.log(manga);
-  }, []);
+  useEffect(() => {}, []);
 
   return (
     <Template>
@@ -20,7 +18,7 @@ function ItemDetailContainer(props) {
       >
         <div className="d-flex justify-content-evenly pt-5">
           <div className="item-detail-cover">
-            <img src={manga.cover} />
+            <img src={manga.cover} alt={manga.title + " PORTADA"} />
           </div>
           <div className="item-detail-info">
             <h1>{manga.title}</h1>

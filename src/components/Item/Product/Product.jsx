@@ -9,7 +9,7 @@ function Product(props) {
   if (props.product.stock == 0) {
     return (
       <>
-        <div className="product-card">
+        <div className="product-card card-dissabled">
           <Link to={"/item/" + props.product.id} state={props.product}>
             <img className="out-of-stock" src={props.product.cover} alt="" />
           </Link>

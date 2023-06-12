@@ -1,5 +1,5 @@
 .product-card {
-  width: 270px;
+  width: 290px;
   margin: 2rem;
   padding-bottom: 0.5rem;
   background-color: #f8f9fa;
@@ -30,4 +30,8 @@
 
 .out-of-stock {
   filter: grayscale(90%);
+}
+
+.card-dissabled{
+  background-color: rgb(210, 210, 210);
 }
